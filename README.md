@@ -27,7 +27,7 @@
     </tr>
     <tr>
       <td>NOVA - AI voice assistant</td>
-      <td><a href="https://your-live-link2.com" target="_blank">View</a></td>
+      <td><a href="https://n3hvz4.csb.app/" target="_blank">View</a></td>
     </tr>
     <!--<tr>
         <td>Automated System Update Manager – C DSA project (CLI)</td>
